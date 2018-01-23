@@ -6,3 +6,12 @@ h2{
 #identyfikator{
     color:maroon;
 }
+.klasa{
+    color:aliceblue;
+}
+p,div{
+    color:red;
+}
+li>a{
+    color:seagreen;
+}
