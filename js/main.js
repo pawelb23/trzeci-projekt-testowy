@@ -1,4 +1,4 @@
-alert("Alarm!")
+alert("Ależ to świetna strona! Nieprawdaż???!")
 console.log("Hello World!")
 var myHeading=document.querySelector('h1');
 myHeading.textContent='Hello World';
@@ -11,5 +11,5 @@ var result=num1*num2;
 return result;
 }
 document.querySelector('h1').onclick=function(){
-    alert('Nie wciskaj byle czego');
+    alert('Czego tak klikasz bezmyślnie!');
 }
